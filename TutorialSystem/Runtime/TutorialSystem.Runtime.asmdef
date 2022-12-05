@@ -1,0 +1,24 @@
+{
+  "name": "TutorialSystem.Runtime",
+  "rootNamespace": "",
+  "references": [
+    "GUID:b8e24fd1eb19b4226afebb2810e3c19b",
+    "GUID:0873f74dff21cea47adbb64618a23448",
+    "GUID:838e76c40e2dac840b68a5ab052b2c83",
+    "GUID:e79427075c2073541b2c56834cf92aa5",
+    "GUID:5e0404af24cff5c4084e70268e536e7c",
+    "GUID:e8d7c01ffcf909948b176f8e51ff6f59",
+    "GUID:9bbd468f8ce656a43ad5a93dbd13886b",
+    "GUID:6055be8ebefd69e48b49212b09b47b2f",
+    "GUID:0d3ca76aadd77a041b3de73c6c02dd4f"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TutorialSystem.Editor",
+  "rootNamespace": "",
+  "references": [
+    "GUID:bc30a4ba650f8c84c9258b10aeb5e830",
+    "GUID:b8e24fd1eb19b4226afebb2810e3c19b",
+    "GUID:002c1bbed08fa44d282ef34fd5edb138"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
